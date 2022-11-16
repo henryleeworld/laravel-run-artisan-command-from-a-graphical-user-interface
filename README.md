@@ -1,4 +1,4 @@
-# Laravel 8 圖形使用者介面執行 Artisan 指令
+# Laravel 9 圖形使用者介面執行 Artisan 指令
 
 引入 infureal 的 artisan-gui 套件來擴增圖形使用者介面執行 Artisan 指令，Artisan 是 Laravel 內建的指令集合，它能提供許多好用的指令來協助開發程式。
 
